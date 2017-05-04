@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25022016-063088";"";
+"REFERENCE";"AMT112Q-V";"";
+"TraceParts.PartTitle";"AMT11-V Kit - 28 mm, 48 ~ 4096 PPR, Incremental, Capacitive Modular Encoder Kit";"";
+"TraceParts.InstanceId";"10-25022016-0630881B5FPTD0PYRBMTWZ1R4NHR399";"";
+"DESIGN";"28 mm, 48 ~ 4096 PPR, Incremental, Line Driver Output, Radial Orientation, Capacitive Modular Encoder Kit";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-25022016-063088";"";
