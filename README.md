@@ -1,5 +1,4 @@
-# Robomuse 4.0
-CAD model in Autodesk Inventor.
+# Robomuse 4.0 CAD
 ![](../media/exploded.gif)
 ## Authors
 - Rishabh Agarwal
