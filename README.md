@@ -1,4 +1,4 @@
-# Robomuse 4.0 CAD
+# RoboMuse 4.0 CAD
 ![](../media/exploded.gif)
 ## Authors
 - Rishabh Agarwal
